@@ -33,8 +33,6 @@ Displays sample denoised images compared to ground truth using `matplotlib`.
   Test image dataset
 - `results/`  
   Predicted denoised images
-- `test_pixel_values.csv`  
-  Optional pixel-level output
 
 ## Dependencies
 - TensorFlow
