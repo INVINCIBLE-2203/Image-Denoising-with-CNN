@@ -24,7 +24,7 @@ This project implements a deep learning-based approach to **image denoising** us
 ## Visual Results
 Displays sample denoised images compared to ground truth using `matplotlib`.
 
-## 📁 Project Structure
+## Project Structure
 - `train.py`  
   Model training and evaluation
 - `utils.py`  
