@@ -1,5 +1,4 @@
 # Image Denoising with CNN
-
 This project implements a deep learning-based approach to **image denoising** using a **Convolutional Neural Network (CNN)**. The model is trained to remove synthetic noise from RGB images, restoring them to a cleaner version.
 
 ## Features
@@ -25,13 +24,17 @@ This project implements a deep learning-based approach to **image denoising** us
 ## Visual Results
 Displays sample denoised images compared to ground truth using `matplotlib`.
 
-## Project Structure
-├── train.py # Model training and evaluation
-├── utils.py # Preprocessing and helper functions
-├── test/ # Test image dataset
-├── results/ # Predicted denoised images
-├── test_pixel_values.csv # Optional pixel-level output
-
+## 📁 Project Structure
+- `train.py`  
+  Model training and evaluation
+- `utils.py`  
+  Preprocessing and helper functions
+- `test/`  
+  Test image dataset
+- `results/`  
+  Predicted denoised images
+- `test_pixel_values.csv`  
+  Optional pixel-level output
 
 ## Dependencies
 - TensorFlow
